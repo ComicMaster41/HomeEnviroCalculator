@@ -1,0 +1,3 @@
+/Users/comicmaster/CLionProjects/HomeEnviroImpactCalculator/cmake-build-debug/CMakeFiles/HomeEnviroImpactCalculator.dir
+/Users/comicmaster/CLionProjects/HomeEnviroImpactCalculator/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/comicmaster/CLionProjects/HomeEnviroImpactCalculator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
