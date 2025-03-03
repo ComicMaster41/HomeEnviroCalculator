@@ -5,7 +5,7 @@
 #ifndef ENVIROHEADER_H
 #define ENVIROHEADER_H
 
-typedef struct {
+typedef struct { // typedef keyword defines an "alias" of the struct
   char residenceType[100];
   char location[100];
   char powerType[100];
